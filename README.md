@@ -13,6 +13,7 @@ https://cdn.jsdelivr.net/gh/ycw/three-raymarch@{VERSION}/build/three-raymarch.js
 or npm
 
 > $ npm i ycw/three-raymarch
+
 > $ npm i ycw/three-raymarch#{VERSION_TAG}
 
 ## Usage
