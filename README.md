@@ -2,11 +2,18 @@
 
 A raymarching postprocessing pass for three.js.
 
-demo (todo)
+[demo](https://ycw.github.io/three-raymarch/examples/basic/)
 
 ## Installation
 
-todo
+via cdn
+
+https://cdn.jsdelivr.net/gh/ycw/three-raymarch@{VERSION}/build/three-raymarch.js
+
+or npm
+
+> $ npm i ycw/three-raymarch
+> $ npm i ycw/three-raymarch#{VERSION_TAG}
 
 ## Usage
 
