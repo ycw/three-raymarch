@@ -61,8 +61,8 @@ const rayMarchPass = new RayMarchPass({
 
 ## Thanks
 
-[Inigo Quilez](https://www.iquilezles.org/index.html)
-[Michael Walczyk](https://michaelwalczyk.com/blog-ray-marching.html)
-[mrdoob / three.js](https://github.com/mrdoob/three.js)
-[ashima / webgl-noise](https://github.com/ashima/webgl-noise/)
-[dmnsgn / glsl-rotate](https://github.com/dmnsgn/glsl-rotate)
+- [Inigo Quilez](https://www.iquilezles.org/index.html)
+- [Michael Walczyk](https://michaelwalczyk.com/blog-ray-marching.html)
+- [mrdoob / three.js](https://github.com/mrdoob/three.js)
+- [ashima / webgl-noise](https://github.com/ashima/webgl-noise/)
+- [dmnsgn / glsl-rotate](https://github.com/dmnsgn/glsl-rotate)
