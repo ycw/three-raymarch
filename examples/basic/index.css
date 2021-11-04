@@ -1,0 +1,16 @@
+body {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  box-shadow: 0 -10vh 100px #000a;
+  display: block;
+  width: 50vw;
+  height: 50vh;
+  background: linear-gradient(to top right, wheat, powderblue);
+  cursor: grab;
+}

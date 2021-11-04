@@ -1,0 +1,26 @@
+{
+  "name": "three-raymarch",
+  "version": "0.1.0",
+  "author": "ycw (https://github.com/ycw)",
+  "repository": "github:ycw/three-raymarch",
+  "description": "Ray marching in three.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "rollup -c -w"
+  },
+  "type": "module",
+  "source": "src/index.js",
+  "module": "build/three-raymarch.js",
+  "files": [
+    "build/three-raymarch.js"
+  ],
+  "keywords": [
+    "threejs",
+    "raymarch",
+    "postprocessing"
+  ],
+  "devDependencies": {
+    "rollup": "^2.59.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
